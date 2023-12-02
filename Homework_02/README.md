@@ -19,3 +19,7 @@
     - CP системы RAFT, PAXOS
     - PA системы. GOSSIP, CasPAXOS
 
+### Дополнительные материалы:
+   - [Всё, что вы не знали о CAP теореме](https://habr.com/ru/post/328792/)
+   - [Мифы о CAP теореме](https://habr.com/ru/post/322276/)
+   

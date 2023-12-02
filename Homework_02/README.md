@@ -24,6 +24,7 @@
    - [Мифы о CAP теореме](https://habr.com/ru/post/322276/)
 
 ## The CAP Theorem MongoDB
+![CAP theorem diagram](Homework_02/ksnip_20231202-221032.png)
 
 _"In the context of the CAP Theorem MongoDB, MongoDB is often [classified as an *AP*](https://www.scaler.com/topics/cap-theorem-mongodb/) (Availability/Partition tolerance) database. MongoDB prioritizes availability and partition tolerance over strong consistency.
 
